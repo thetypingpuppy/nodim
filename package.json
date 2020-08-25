@@ -1,0 +1,23 @@
+{
+  "name": "nodim",
+  "version": "4.3.0",
+  "description": "\r\n    Prevent screen dim on Android.\r\n  ",
+  "cordova": {
+    "id": "nodim",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT"
+}
